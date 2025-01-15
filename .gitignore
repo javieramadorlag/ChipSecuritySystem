@@ -3,9 +3,11 @@
 ################################################################################
 
 /.vs/ChipSecuritySystem/FileContentIndex
+/bin
 /bin/Debug/ChipSecuritySystem.exe
 /bin/Debug/ChipSecuritySystem.exe.config
 /bin/Debug/ChipSecuritySystem.pdb
+/obj
 /obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttributes.cs
 /obj/Debug/ChipSecuritySystem.csproj.AssemblyReference.cache
 /obj/Debug/ChipSecuritySystem.csproj.CoreCompileInputs.cache
