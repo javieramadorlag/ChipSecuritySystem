@@ -62,6 +62,7 @@
     <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include=".gitignore" />
     <Content Include="bin\Debug\ChipSecuritySystem.exe" />
     <Content Include="bin\Debug\ChipSecuritySystem.pdb" />
     <Content Include="obj\Debug\ChipSecuritySystem.csproj.FileListAbsolute.txt" />
