@@ -5,10 +5,3 @@ d:\development\ChipSecuritySystem\ChipSecuritySystem\obj\Debug\ChipSecuritySyste
 d:\development\ChipSecuritySystem\ChipSecuritySystem\obj\Debug\ChipSecuritySystem.csproj.CoreCompileInputs.cache
 d:\development\ChipSecuritySystem\ChipSecuritySystem\obj\Debug\ChipSecuritySystem.exe
 d:\development\ChipSecuritySystem\ChipSecuritySystem\obj\Debug\ChipSecuritySystem.pdb
-C:\Users\Javier\Desktop\ChipSecuritySystem\ChipSecuritySystem\bin\Debug\ChipSecuritySystem.exe.config
-C:\Users\Javier\Desktop\ChipSecuritySystem\ChipSecuritySystem\bin\Debug\ChipSecuritySystem.exe
-C:\Users\Javier\Desktop\ChipSecuritySystem\ChipSecuritySystem\bin\Debug\ChipSecuritySystem.pdb
-C:\Users\Javier\Desktop\ChipSecuritySystem\ChipSecuritySystem\obj\Debug\ChipSecuritySystem.csproj.AssemblyReference.cache
-C:\Users\Javier\Desktop\ChipSecuritySystem\ChipSecuritySystem\obj\Debug\ChipSecuritySystem.csproj.CoreCompileInputs.cache
-C:\Users\Javier\Desktop\ChipSecuritySystem\ChipSecuritySystem\obj\Debug\ChipSecuritySystem.exe
-C:\Users\Javier\Desktop\ChipSecuritySystem\ChipSecuritySystem\obj\Debug\ChipSecuritySystem.pdb
